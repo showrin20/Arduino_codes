@@ -26,4 +26,4 @@ Connect as follows:
 - **I2C SDA/SCL**: Arduino A4/A5 (Uno)
 
 #### Demo Video:
-[![Sonar Distance Measurement Demo](dhakarpola.MP4)
+![Sonar Distance Measurement Demo](https://github.com/showrin20/Arduino_codes/blob/main/dhakarpola.MP4)
