@@ -12,8 +12,6 @@ This project measures the distance using an ultrasonic sensor and displays the r
 - Fun interactive messages based on distance thresholds.
 - Real-time distance output on the **Serial Monitor**.
 
----
-
 #### Components:
 1. Arduino Uno or similar board.
 2. HC-SR04 Ultrasonic Sensor.
@@ -28,4 +26,4 @@ Connect as follows:
 - **I2C SDA/SCL**: Arduino A4/A5 (Uno)
 
 #### Demo Video:
-[![Sonar Distance Measurement Demo](dhakarpola.mp4)
+[![Sonar Distance Measurement Demo](dhakarpola.MP4)
